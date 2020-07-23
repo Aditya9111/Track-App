@@ -1,10 +1,10 @@
-import React from 'react';
-import {View, Text, StyleSheet, Button} from 'react-native';
+import React from "react";
+import { View, Text, StyleSheet, Button } from "react-native";
 
 const SigninScreen = () => {
   return (
     <View>
-      <Text>Sign Int Screen</Text>
+      <Text>Sign In Screen</Text>
     </View>
   );
 };
